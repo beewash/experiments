@@ -1,4 +1,5 @@
 /* eslint-disable jsx-a11y/img-redundant-alt */
+/* https://www.framer.com/blog/posts/react-portfolio/ */
 import React from 'react';
 import logo from './logo.svg';
 import { BrowserRouter, Route, Link } from 'react-router-dom'; 
